@@ -1,4 +1,4 @@
-Photoresistor Instrument
+**Photoresistor Instrument**
 
 Using Photoresistors, I tried to create an instrument that plays different tones depending on how much light the photoresistor senses. 
 
@@ -25,4 +25,6 @@ Challenges
 There were tutorials on how to make theremin, but all of them were using just one photoresistor and piezo buzzer. I wanted to have multiple sensors all playing at once so figuring out code for that was difficult for me. At first, I could only play one sensor at a time but using array I was able to control them all. Later I tried to give it different frequencies, but if I lower the frequencies to give it lower tone the volume went down as well. I couldn’t figure out how to adjust the volume while maintaining the frequency so higher pitch tones are much more vivid than lower ones.
 
 Completed Work
+
+
 

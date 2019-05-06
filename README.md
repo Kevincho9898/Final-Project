@@ -1,9 +1,7 @@
 **Photoresistor Instrument**
-
 Using Photoresistors, I tried to create an instrument that plays different tones depending on how much light the photoresistor senses. 
 
-Summary
-
+**Summary**
 I was first thinking of making an instrument of some sort using buttons to make a keyboard. But that seemed a bit boring so I tried to find a cooler way of playing with sounds. Photoresistors are sensors that can detect how much light there are, so by covering them up or exposing it to more light it can change the tone of the sound. I connected total of 5 sensors producing different frequencies. 
 
 Component Parts
